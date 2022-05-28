@@ -1,0 +1,14 @@
+body { background-color: rgb(246, 216, 228);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+h1,h2,h3 {text-align: center;}
+p{color:rgb(105, 195, 186); 
+font-size: 24px; } 
+div h1 {color: rgb(196, 196, 196);}
+#párrafo especial {font-size: 50px;}
+.parrafo {color:rgb(157, 26, 26); font-style: italic;}
+a, img {display: block;}
+
+a { margin: 50px; color: rgb(200, 122, 175); text-decoration: none;}
+a:hover {color: rgb(104, 104, 104);}
+
+img {width: 40%; margin: auto}
